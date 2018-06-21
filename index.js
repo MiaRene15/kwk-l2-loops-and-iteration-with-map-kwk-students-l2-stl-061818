@@ -14,10 +14,10 @@ const firstName = ['Mary', 'Joan', 'Eva', 'Frida', 'Taylor', 'Agnes']
 
 const lastName = ['Cassatt', 'Mitchell', 'Hesse', ' Kahlo', 'Swift', 'Martin']
 
-function nameToAttributes(students) {
+function people(students) {
     return `firstName: ${firstName}, lastName: ${lastName}`
 }
 
-function people(names) {
-  return names.map(nameToAttributes)
+function nameToAttributes(names) {
+  return names.map(people)
 }
