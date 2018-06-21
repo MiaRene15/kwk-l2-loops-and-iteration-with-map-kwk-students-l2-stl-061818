@@ -11,3 +11,5 @@ function lowerCaseStudentNames(names) {
 }
 
 const students = ['Mary Cassatt', 'Joan Mitchell', 'Eva Hesse', 'Frida Kahlo', 'Taylor Swift', 'Agnes Martin']
+
+function 
