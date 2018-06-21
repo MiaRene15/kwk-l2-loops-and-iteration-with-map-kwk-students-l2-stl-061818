@@ -15,5 +15,5 @@ const firstName = ['Mary', 'Joan', 'Eva', 'Frida', 'Taylor', 'Agnes']
 const lastName = ['Cassatt', 'Mitchell', 'Hesse', ' Kahlo', 'Swift', 'Martin']
 
 function nameToAttributes(students) {
-    return `firstName: ${firstName} lastName: ${lastName}`
+    return `firstName: ${firstName}, lastName: ${lastName}`
 }
