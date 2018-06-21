@@ -18,4 +18,7 @@ function nameToAttributes(students) {
     return `firstName: ${firstName}, lastName: ${lastName}`
 }
 
-function 
+function people(names) {
+  return names.map(nameToAttributes)
+}
+}
