@@ -10,7 +10,7 @@ function lowerCaseStudentNames(names) {
   return names.map(other)
 }
 
-const students = ['Mary Cassatt', 'Joan Mitchell', 'Eva Hesse', 'Frida Kahlo', 'Taylor Swift', 'Agnes Martin']
+const firstName = ['Mary Cassatt', 'Joan Mitchell', 'Eva Hesse', 'Frida Kahlo', 'Taylor Swift', 'Agnes Martin']
 
 function nameToAttributes(students) {
     return `
