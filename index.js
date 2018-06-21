@@ -10,3 +10,4 @@ function lowerCaseStudentNames(names) {
   return names.map(other)
 }
 
+const students = []
