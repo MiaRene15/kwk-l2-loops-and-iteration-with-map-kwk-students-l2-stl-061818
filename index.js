@@ -14,8 +14,8 @@ const fullNames = ['Mary Cassatt', 'Joan Mitchell', 'Eva Hesse', 'Frida Kahlo', 
 
 function namesToAttribute(names) {
    return names.map(function (name) {
-     const studentFirst //split name here 
-     const studentLast //split name here 
+     const studentFirst.split(0) //split name here 
+     const studentLast.split(1)//split name here 
      
      return {firstName: studentFirst, lastName: studentLast}
    })
