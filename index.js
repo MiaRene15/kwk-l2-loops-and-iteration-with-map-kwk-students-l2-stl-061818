@@ -21,4 +21,3 @@ function nameToAttributes(students) {
 function people(names) {
   return names.map(nameToAttributes)
 }
-}
