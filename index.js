@@ -18,4 +18,3 @@ function nameToAttributes(hi){
 }
 
 
-Add CommentCollapse 
