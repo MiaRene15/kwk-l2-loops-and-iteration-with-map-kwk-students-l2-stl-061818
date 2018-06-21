@@ -2,6 +2,10 @@
 
 let students = ['Mary', 'Joan', 'Eva', 'Frida', 'Taylor','Agnes']
 
-function lowerCaseStudentNames(names) {
+function other(students) {
   return names.toLowerCase(students)
+}
+
+function lowerCaseStudentNames(names) {
+  return names.map 
 }
