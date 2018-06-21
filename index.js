@@ -3,7 +3,7 @@
 let studentArray = ['Mary', 'Joan', 'Eva', 'Frida', 'Taylor','Agnes']
 
 function other(students) {
-  return names.toLowerCase(students)
+  return students.toLowerCase()
 }
 
 function lowerCaseStudentNames(names) {
