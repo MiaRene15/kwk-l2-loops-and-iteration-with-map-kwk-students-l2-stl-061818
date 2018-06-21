@@ -3,5 +3,5 @@
 let students = ['Mary', 'Joan', 'Eva', 'Frida', 'Taylor','Agnes']
 
 function lowerCaseStudentNames(names) {
-  return names.toLowerCase(students)
+ console.log("")
 }
