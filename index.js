@@ -13,7 +13,12 @@ function lowerCaseStudentNames(names) {
 const fullNames = ['Mary Cassatt', 'Joan Mitchell', 'Eva Hesse', 'Frida Kahlo', 'Taylor Swift', 'Agnes Martin']
 
 function namesToAttribute(names) {
-   names.split(fullNames)
+   return names.map(function (name) {
+     const studentFirst //split name here 
+     const studentLast //split name here 
+     
+     return {firstName: studentFirst, lastName: studentLast}
+   })
 }
 
 function people() {
