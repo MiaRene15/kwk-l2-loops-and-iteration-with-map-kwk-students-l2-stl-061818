@@ -10,4 +10,4 @@ function lowerCaseStudentNames(names) {
   return names.map(other)
 }
 
-const students = ['Mary Cassatt', 'Joan Mitchell', 'Eva Hesse', 'Frida']
+const students = ['Mary Cassatt', 'Joan Mitchell', 'Eva Hesse', 'Frida Kahlo']
