@@ -1,6 +1,6 @@
 // Code your solution in this file.
 
-let students = ['Mary', 'Joan', 'Eva', 'Frida', 'Taylor','Agnes']
+let studentArray = ['Mary', 'Joan', 'Eva', 'Frida', 'Taylor','Agnes']
 
 function other(students) {
   return names.toLowerCase(students)
