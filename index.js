@@ -20,12 +20,3 @@ function namesToAttribute(names) {
      return {firstName: studentFirst, lastName: studentLast}
    })
 }
-
-function people() {
-  return ' firstName: ${} '
-}
-  
-  
-  
-}
-
