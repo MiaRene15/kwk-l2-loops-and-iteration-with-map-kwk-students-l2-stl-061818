@@ -12,4 +12,4 @@ function lowerCaseStudentNames(names) {
 
 const fullNames = ['Mary Cassatt', 'Joan Mitchell', 'Eva Hesse', 'Frida Kahlo', 'Taylor Swift', 'Agnes Martin']
 
-function namesToAttribute()
+function namesToAttribute(students)
